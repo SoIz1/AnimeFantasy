@@ -1,0 +1,654 @@
+{
+  "infoImg": [
+    {
+      "index": 1,
+      "url": "https://telegra.ph/file/13739fe030f0a5c8cdd9c.jpg",
+      "name": "Son Goku",
+      "desp": "Dragon Ball",
+      "price": 3400,
+      "class": "Raro",
+      "type": "Saiyan, Anime",
+      "code": "95iYY%"
+    },
+    {
+      "index": 2,
+      "url": "https://telegra.ph/file/b31cd03f716d362b33716.jpg",
+      "name": "Mikasa Ackerman",
+      "desp": "Attack on Titan (Shingeki no Kyojin)",
+      "price": 700,
+      "class": "Raro",
+      "type": "Anime",
+      "code": "U79Cn%"
+    },
+    {
+      "index": 3,
+      "url": "https://telegra.ph/file/98c672926fbc35a4b9948.jpg",
+      "name": "Tom Holland",
+      "desp": "Spider-Man",
+      "price": 1100,
+      "class": "Épico",
+      "type": "Actor, Celebridad",
+      "code": "95UQ%r"
+    },
+    {
+    "index": 4,
+    "url": "https://telegra.ph/file/f689a972cfc1c5efff189.jpg",
+    "name": "Izuku Midoriya",
+    "desp": "My Hero Academia",
+    "class": "Legendario",
+    "type": "Acción, Superpoderes, Escolar",
+    "price": 1746,
+    "code": "3t3na^"
+   },
+     {
+    "index": 5,
+    "url": "https://telegra.ph/file/4b11562e08b8512868ed4.jpg",
+    "name": "Naruto Uzumaki",
+    "desp": "Naruto Es Un Ninja Muy Poderoso. Para Llegar Al Nivel Que TeníA Al Final De Naruto Shippuden, Naruto Tuvo Que Entrenar Durante Mucho Tiempo, Fortaleciendo Sus Habilidades Y Superando Sus Debilidades.",
+    "class": "Raro",
+    "type": "Aventura, Acción, Fantasía",
+    "price": 675,
+    "code": "bIQ^51"
+  },
+  {
+    "index": 6,
+    "url": "https://telegra.ph/file/2e163769ea2f66b4cb455.jpg",
+    "name": "Itachi Uchiha",
+    "desp": "Itachi Es Un Miembro Experimentado Del Clan Uchiha Y Un Gran Usuario Del Elemento Fuego. Conoce Jutsus Como Las Llamas Del FéNix O La Gran Bola De Fuego Jutsu.",
+    "class": "Raro",
+    "type": "Fuego, Aventura, Fantasía",
+    "price": 678,
+    "code": "sEE8<9"
+  },
+  {
+    "index": 7,
+    "url": "https://telegra.ph/file/6861039367462755c84d1.jpg",
+    "name": "Monkey D. Luffy",
+    "desp": "One Piece",
+    "class": "Común",
+    "type": "Manga, Anime, Aventura",
+    "price": 153,
+    "code": "0<KHO7"
+  },
+  {
+    "index": 8,
+    "url": "https://telegra.ph/file/d311c7f4a32d843ace899.jpg",
+    "name": "Light Yagami",
+    "desp": "Death Note",
+    "class": "Poco Común",
+    "type": "Psicológico, Misterio, Anime, Crime",
+    "price": 308,
+    "code": "0#suv1"
+  },
+  {
+    "index": 9,
+    "url": "https://telegra.ph/file/70fadfc8d38f2d307cd35.jpg",
+    "name": "Misa Amane",
+    "desp": "Death Note",
+    "class": "Épico",
+    "type": "Misterio, Anime, Modelo, Cantante",
+    "price": 808,
+    "code": "3i<M5z"
+  },
+  {
+    "index": 10,
+    "url": "https://telegra.ph/file/faa41f0647445c6097041.jpg",
+    "name": "Soichiro Yagami",
+    "desp": "Death Note",
+    "class": "Común",
+    "type": "Crime, Misterio, Anime, Policía",
+    "price": 108,
+    "code": "79UKU%"
+   },
+   {
+    "index": 11,
+    "url": "https://telegra.ph/file/a803779df82b23707a0af.jpg",
+    "name": "Asuna Yuuki",
+    "desp": "Sword Art Online",
+    "class": "Épico",
+    "type": "Anime",
+    "price": 1047,
+    "code": "B6YQ%8"
+  },
+  {
+    "index": 12,
+    "url": "https://telegra.ph/file/9d8777e630c32a244ce9c.jpg",
+    "name": "Erza Scarlet",
+    "desp": "Fairy Tail",
+    "class": "Épico",
+    "type": "Anime",
+    "price": 1179,
+    "code": "UP%30J"
+   },
+   {
+    "index": 13,
+    "url": "https://telegra.ph/file/69d9c8a90c332fac66f0c.jpg",
+    "name": "Isagi Yoichi",
+    "desp": "Isagi Es Un Jugador Joven De Fútbol Con Grandes Habilidades Y Una Mentalidad Fuerte Y Competitiva. El Entra En El Programa De Entrenamiento “Blue Lock” Con La Intención De Convertirse En el Jugador De Fútbol Más Fuerte Del Mundo Isagi Es Un Personaje Inteligente Y Estratégico Con Su Habilidad de Meta Vision.",
+    "class": "Legendario",
+    "type": "Deporte, Estrategia, Acción",
+    "price": 1760,
+    "code": "V9Ua0%"
+  },
+  {
+    "index": 14,
+    "url": "https://telegra.ph/file/3508047226d3d171e564d.jpg",
+    "name": "Satoru Gojo",
+    "desp": "Jujutsu Kaisen",
+    "class": "Épico",
+    "type": "Aventura, Acción, Demonios",
+    "price": 1184,
+    "code": "7Xl4%A"
+  },
+  {
+    "index": 15,
+    "url": "https://telegra.ph/file/fc16a178da15e5c629cbe.jpg",
+    "name": "Brook",
+    "desp": "Brook Es Un Personaje De 'One Piece' Que Tiene Una Personalidad Muy Carismática Y Divertida. Es Un Personaje Muy Peculiar, Ya Que Es Una Calavera Hablante, Y Es Un Músico Muy Talentoso. Además, Tiene Un Humor Unico Y Alegre, A Pesar De Que En Ocasiones Es Un Poco Engreído Y También Muestra Gran Lealtad A Sus Compañeros Y Su Capitán Monkey D. Luffy.",
+    "class": "Poco Común",
+    "type": "Aventura, Acción, Piratas",
+    "price": 300,
+    "code": "8loJ5@"
+  },
+  {
+    "index": 16,
+    "url": "https://telegra.ph/file/c33eca3c3b52e11697b65.jpg",
+    "name": "Roronoa Zoro",
+    "desp": "Zoro Es Uno De Los Tripulantes De La Tripulación De Luffy, Y Es Uno  De Los Más Fuertes Y Esforzados. Su Personalidad Es Fuerte, Determinada Y Dura, Pero También Tiene Un Gran Corazón Y Una Gran Lealtad A Su Capitán.",
+    "class": "Supremo",
+    "type": "Aventura, Acción, Anime, Katana",
+    "price": 19256,
+    "code": "s3l0p<"
+  },
+  {
+    "index": 17,
+    "url": "https://telegra.ph/file/d48a22ae1dc114c19c653.jpg",
+    "name": "Alastor",
+    "desp": "Hazbin Hotel",
+    "class": "Raro",
+    "type": "Aventura, Acción, Demoníaco",
+    "price": 700,
+    "code": "<84NMj"
+  },
+  {
+    "index": 18,
+    "url": "",
+    "name": "Loid Forger",
+    "desp": "SpyxFamily",
+    "class": "Poco Común",
+    "type": "Acción, Anime",
+    "price": 1432,
+    "code": "_9u8<v"
+  },
+  {
+    "index": 19,
+    "url": "",
+    "name": "Anya",
+    "desp": "SpyxFamily",
+    "class": "Poco Común",
+    "type": "Acción, Anime",
+    "price": 782,
+    "code": "B@c2d"
+  },
+  {
+    "index": 20,
+    "url": "",
+    "name": "Yor Forger",
+    "desp": "SpyxFamily",
+    "class": "Poco Común",
+    "type": "Acción, Asesina, Waifu",
+    "price": 1355,
+    "code": "<Z%X&m"
+      },
+        {
+    "index": 21,
+    "url": "",
+    "name": "Vegeta",
+    "desp": "Dragon Ball",
+    "class": "Épico",
+    "type": "Saiyan, Guerrero, Acción",
+    "price": 3400,
+    "code": "_6%O#P"
+      },
+        {
+    "index": 22,
+    "url": "",
+    "name": "Son Gohan",
+    "desp": "Dragon Ball",
+    "class": "Épico",
+    "type": "Hybrid  ",
+    "price": 1323,
+    "code": "5&VQh<"
+      },
+        {
+    "index": 23,
+    "url": "",
+    "name": "Reigen Arataka",
+    "desp": "Mob Psycho 100",
+    "class": "Poco Común",
+    "type": "Anime",
+    "price": 500,
+    "code": "v2A@cX"
+      },
+        {
+    "index": 24,
+    "url": "",
+    "name": "Shigeo Kageyama",
+    "desp": "Mob Psycho",
+    "class": "Raro",
+    "type": "Anime, Psíquico",
+    "price": 2522,
+    "code": ""
+      },
+        {
+    "index": 25,
+    "url": "",
+    "name": "Saitama",
+    "desp": "One Punch Man",
+    "class": "Raro",
+    "type": "Anime, Acción, Heroe",
+    "price": 1700,
+    "code": ""
+      },
+        {
+    "index": 26,
+    "url": "",
+    "name": "Genos",
+    "desp": "One Punch Man",
+    "class": "Poco Común",
+    "type": "Anime, Acción, Cyborg",
+    "price": 980,
+    "code": ""
+      },
+        {
+    "index": 27,
+    "url": "",
+    "name": "Berus",
+    "desp": "Dragon Ball",
+    "class": "Legendario",
+    "type": "Dios, Anime",
+    "price": 6700,
+    "code": ""
+      },
+        {
+    "index": 28,
+    "url": "",
+    "name": "Whis",
+    "desp": "Dragon Ball",
+    "class": "Legendario",
+    "type": "Angel, Dios, Maestro",
+    "price": 8955,
+    "code": ""
+      },
+        {
+    "index": 29,
+    "url": "",
+    "name": "Jiren",
+    "desp": "Dragon Ball",
+    "class": "Raro",
+    "type": "Peleas, Rival, Anime",
+    "price": 4500,
+    "code": ""
+      },
+        {
+    "index": 30,
+    "url": "",
+    "name": "Denji",
+    "desp": "Chainsaw Man",
+    "class": "Poco Común",
+    "type": "Anime, Demonios, Carismático",
+    "price": 1200,
+    "code": ""
+      },
+        {
+    "index": 31,
+    "url": "",
+    "name": "Makima",
+    "desp": "Chainsaw Man",
+    "class": "Raro",
+    "type": "Anime, Waifu, Demonios",
+    "price": 1666,
+    "code": ""
+      },
+        {
+    "index": 32,
+    "url": "",
+    "name": "Kobeni Higashiyama",
+    "desp": "Chainsaw Man",
+    "class": "Poco Común",
+    "type": "Anime, Demonios",
+    "price": 700,
+    "code": ""
+      },
+        {
+    "index": 33,
+    "url": "",
+    "name": "Power",
+    "desp": "Chainsaw Man",
+    "class": "Poco Común",
+    "type": "Anime, Demonios",
+    "price": 910,
+    "code": ""
+      },
+        {
+    "index": 34,
+    "url": "",
+    "name": "Kaguya Shinomiya",
+    "desp": "Kaguya-sama: Love is War",
+    "class": "Poco Común",
+    "type": "Anime, Romance",
+    "price": 700,
+    "code": ""
+      },
+        {
+    "index": 35,
+    "url": "",
+    "name": "Miyuki Shirogane",
+    "desp": "Kaguya-sama: Love is War",
+    "class": "Poco Común",
+    "type": "Anime, Romance",
+    "price": 750,
+    "code": ""
+      },
+        {
+    "index": 36,
+    "url": "",
+    "name": "Chika Fujiwara",
+    "desp": "Kaguya-sama: Love is War",
+    "class": "Poco Común",
+    "type": "Anime, Romance",
+    "price": 670,
+    "code": ""
+      },
+        {
+    "index": 37,
+    "url": "",
+    "name": "Shoko Komi",
+    "desp": "Komi Can't Communicate",
+    "class": "Poco Común",
+    "type": "Anime",
+    "price": 780,
+    "code": ""
+      },
+        {
+    "index": 38,
+    "url": "",
+    "name": "Nagisa Shiota",
+    "desp": "Assassination Classroom",
+    "class": "Poco Común",
+    "type": "Anime, Asesino",
+    "price": 700,
+    "code": ""
+      },
+        {
+    "index": 39,
+    "url": "",
+    "name": "Koro-Sensei",
+    "desp": "Assassination Classroom",
+    "class": "Raro",
+    "type": "Anime, Asesino, Carismático",
+    "price": 1223,
+    "code": ""
+        },
+          {
+    "index": 40,
+    "url": "",
+    "name": "Steve",
+    "desp": "Minecraft",
+    "class": "Raro",
+    "type": "Videojuegos, Minero, Aventura",
+    "price": 1300,
+    "code": ""
+      },
+        {
+    "index": 41,
+    "url": "",
+    "name": "Alex",
+    "desp": "Minecraft",
+    "class": "Poco Común",
+    "type": "Videojuegos, Minero, Aventura",
+    "price": 967,
+    "code": ""
+      },
+        {
+    "index": 42,
+    "url": "",
+    "name": "Hayase Nagatoro",
+    "desp": "Don't Toy With Me Miss Nagatoro",
+    "class": "Poco Común",
+    "type": "Romcom, Anime",
+    "price": 600,
+    "code": ""
+      },
+        {
+    "index": 43,
+    "url": "",
+    "name": "Naoto Hachiōji",
+    "desp": "Don't Toy With Me Miss Nagatoro",
+    "class": "Poco Común",
+    "type": "Anime",
+    "price": 670,
+    "code": ""
+      },
+        {
+    "index": 44,
+    "url": "",
+    "name": "Aqua",
+    "desp": "KonoSuba!",
+    "class": "Poco Común",
+    "type": "Anime",
+    "price": 700,
+    "code": ""
+      },
+        {
+    "index": 45,
+    "url": "",
+    "name": "Megumin",
+    "desp": "KonoSuba!",
+    "class": "Poco Común",
+    "type": "Anime",
+    "price": ,
+    "code": ""
+      },
+        {
+    "index": 46,
+    "url": "",
+    "name": "Kazuma Sato",
+    "desp": "KonoSuba!",
+    "class": "Poco Común",
+    "type": "Anime",
+    "price": 1000,
+    "code": ""
+      },
+        {
+    "index": 47,
+    "url": "",
+    "name": "Darkness",
+    "desp": "KonoSuba!",
+    "class": "Poco Común",
+    "type": "Anime",
+    "price": 890,
+    "code": ""
+      },
+        {
+    "index": 48,
+    "url": "",
+    "name": "",
+    "desp": "",
+    "class": "",
+    "type": "",
+    "price": ,
+    "code": ""
+      },
+        {
+    "index": 49,
+    "url": "",
+    "name": "",
+    "desp": "",
+    "class": "",
+    "type": "",
+    "price": ,
+    "code": ""
+      },
+        {
+    "index": 50,
+    "url": "",
+    "name": "",
+    "desp": "",
+    "class": "",
+    "type": "",
+    "price": ,
+    "code": ""
+      },
+        {
+    "index": 51,
+    "url": "",
+    "name": "",
+    "desp": "",
+    "class": "",
+    "type": "",
+    "price": ,
+    "code": ""
+      },
+        {
+    "index": 52,
+    "url": "",
+    "name": "",
+    "desp": "",
+    "class": "",
+    "type": "",
+    "price": ,
+    "code": ""
+      },
+        {
+    "index": 53,
+    "url": "",
+    "name": "",
+    "desp": "",
+    "class": "",
+    "type": "",
+    "price": ,
+    "code": ""
+      },
+        {
+    "index": 54,
+    "url": "",
+    "name": "",
+    "desp": "",
+    "class": "",
+    "type": "",
+    "price": ,
+    "code": ""
+      },
+        {
+    "index": 55,
+    "url": "",
+    "name": "",
+    "desp": "",
+    "class": "",
+    "type": "",
+    "price": ,
+    "code": ""
+      },
+        {
+    "index": 56,
+    "url": "",
+    "name": "",
+    "desp": "",
+    "class": "",
+    "type": "",
+    "price": ,
+    "code": ""
+      },
+        {
+    "index": 57,
+    "url": "",
+    "name": "",
+    "desp": "",
+    "class": "",
+    "type": "",
+    "price": ,
+    "code": ""
+      },
+        {
+    "index": 58,
+    "url": "",
+    "name": "",
+    "desp": "",
+    "class": "",
+    "type": "",
+    "price": ,
+    "code": ""
+      },
+        {
+    "index": 59,
+    "url": "",
+    "name": "",
+    "desp": "",
+    "class": "",
+    "type": "",
+    "price": ,
+    "code": ""
+      },
+        {
+    "index": 60,
+    "url": "",
+    "name": "",
+    "desp": "",
+    "class": "",
+    "type": "",
+    "price": ,
+    "code": ""
+      },
+        {
+    "index": 61,
+    "url": "",
+    "name": "",
+    "desp": "",
+    "class": "",
+    "type": "",
+    "price": ,
+    "code": ""
+      },
+        {
+    "index": 62,
+    "url": "",
+    "name": "",
+    "desp": "",
+    "class": "",
+    "type": "",
+    "price": ,
+    "code": ""
+      },
+        {
+    "index": 63,
+    "url": "",
+    "name": "",
+    "desp": "",
+    "class": "",
+    "type": "",
+    "price": ,
+    "code": ""
+      },
+        {
+    "index": 64,
+    "url": "",
+    "name": "",
+    "desp": "",
+    "class": "",
+    "type": "",
+    "price": ,
+    "code": ""
+      },
+        {
+    "index": 65,
+    "url": "",
+    "name": "",
+    "desp": "",
+    "class": "",
+    "type": "",
+    "price": ,
+    "code": ""
+      }
+  ]
+}
