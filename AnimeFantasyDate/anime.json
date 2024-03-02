@@ -505,8 +505,8 @@
     "url": "https://telegra.ph/file/570c6929034562b4b885e.jpg",
     "name": "Piccolo",
     "desp": "Dragon Ball",
-    "class": "Raro"
-    "type": "Villano, Anime"
+    "class": "Raro",
+    "type": "Villano, Anime",
     "price": 3200,
     "code": "wP#x3d"
       },
@@ -615,7 +615,7 @@
     "url": "https://telegra.ph/file/4730ca42a9cccd74866e7.png",
     "name": "Piedra",
     "desp": "Solo es una piedra",
-    "class": "Transcendental",
+    "class": "Legendario",
     "type": "Una piedra común  y corriente",
     "price": 80000,
     "code": "xD#i4o"
