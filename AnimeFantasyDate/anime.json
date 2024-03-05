@@ -497,7 +497,7 @@
     "desp": "Dragon Ball",
     "class": "Raro",
     "type": "Villano, Anime, Carismático",
-    "price": 6700,
+    "price": 8700,
     "code": "Ad3!*<"
       },
       {
@@ -517,7 +517,7 @@
     "desp": "Dragon Ball",
     "class": "Común",
     "type": "Clan de tres ojos, Aliado, Anime",
-    "price": 500,
+    "price": 800,
     "code": "eO^y4e"
       },
       {
@@ -657,7 +657,7 @@
     "desp": "Dragon Ball Z",
     "class": "Raro",
     "type": "Guerrero Fusionado, Anime",
-    "price": 7000,
+    "price": 9000,
     "code": "9T*m8s"
       },
       {
@@ -667,7 +667,7 @@
     "desp": "Dragon Ball Super",
     "class": "Épico",
     "type": "Guerrero Fusionado, Anime",
-    "price": 12000,
+    "price": 15000,
     "code": "8S@n9t"
       },
       {
@@ -677,7 +677,7 @@
     "desp": "Dragon Ball Z",
     "class": "Raro",
     "type": "Guerrero Fusionado, Anime",
-    "price": 8000,
+    "price": 10000,
     "code": "7R#o0u"
       },
       {
@@ -687,7 +687,7 @@
     "desp": "Dragon Ball Super",
     "class": "Épico",
     "type": "Guerrero Fusionado, Anime",
-    "price": 13500,
+    "price": 15500,
     "code": "6Q^p1v"
       },
       {
@@ -697,7 +697,7 @@
     "desp": "Dragon Ball Super",
     "class": "Raro",
     "type": "Dios, Villano, Maldad",
-    "price": 6500,
+    "price": 9500,
     "code": "5P*q2w"
       },
       {
@@ -707,7 +707,7 @@
     "desp": "Dragon Ball Super",
     "class": "Poco Común",
     "type": "Dios, Villano, Carismático",
-    "price": 3500,
+    "price": 5500,
     "code": "4O@r3x"
       },
       {
@@ -727,7 +727,7 @@
     "desp": "Dragon Ball Z",
     "class": "Raro",
     "type": "Transformación, Guerrero, Anime",
-    "price": 3000,
+    "price": 8500,
     "code": "3N#s4y"
       },
       {
@@ -737,7 +737,7 @@
     "desp": "Dragon Ball Super",
     "class": "Raro",
     "type": "Dios, Guerrero, Transformación",
-    "price": 5000,
+    "price": 10000,
     "code": "2M^t5z"
       },
       {
@@ -747,7 +747,7 @@
     "desp": "Dragon Ball Super",
     "class": "Raro",
     "type": "Transformación, Guerrero, Anime",
-    "price": 7000,
+    "price": 15000,
     "code": "1L*u6a"
       },
       {
@@ -757,7 +757,7 @@
     "desp": "Dragon Ball Super",
     "class": "Raro",
     "type": "Guerrero, Poder, Anime",
-    "price": 12000,
+    "price": 18000,
     "code": "zK@v7b"
       },
       {
@@ -787,8 +787,8 @@
     "desp": "Dragon Ball",
     "class": "Poco Común",
     "type": "Maestro, Guerrero, Anime",
-    "price": 1500,
-    "code": "gG*y0e"
+    "price": 2500,
+    "code": "g1*y0e"
       },
       {
     "index": 80,
