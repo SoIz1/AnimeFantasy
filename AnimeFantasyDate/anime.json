@@ -5,7 +5,7 @@
       "url": "https://telegra.ph/file/d5034740d71ac86dc6225.png",
       "name": "Son Goku",
       "desp": "Dragon Ball",
-      "price": 5400,
+      "price": 10400,
       "class": "Raro",
       "type": "Saiyan, Anime",
       "code": "95iYY%"
@@ -15,7 +15,7 @@
       "url": "https://telegra.ph/file/b31cd03f716d362b33716.jpg",
       "name": "Mikasa Ackerman",
       "desp": "Attack on Titan (Shingeki no Kyojin)",
-      "price": 700,
+      "price": 1000,
       "class": "Raro",
       "type": "Anime",
       "code": "U79Cn%"
@@ -25,7 +25,7 @@
       "url": "https://telegra.ph/file/98c672926fbc35a4b9948.jpg",
       "name": "Spider-Man (Tom Holland)",
       "desp": "Spider-Man: Homecoming",
-      "price": 1100,
+      "price": 2000,
       "class": "Poco Común",
       "type": "Actor, Celebridad",
       "code": "95UQ%r"
@@ -37,7 +37,7 @@
     "desp": "My Hero Academia",
     "class": "Legendario",
     "type": "Acción, Superpoderes, Escolar",
-    "price": 1746,
+    "price": 2000,
     "code": "3t3na^"
    },
      {
@@ -47,7 +47,7 @@
     "desp": "Naruto Es Un Ninja Muy Poderoso. Para Llegar Al Nivel Que TeníA Al Final De Naruto Shippuden, Naruto Tuvo Que Entrenar Durante Mucho Tiempo, Fortaleciendo Sus Habilidades Y Superando Sus Debilidades.",
     "class": "Raro",
     "type": "Aventura, Acción, Fantasía",
-    "price": 2675,
+    "price": 2750,
     "code": "bIQ^51"
   },
   {
@@ -57,7 +57,7 @@
     "desp": "Itachi Es Un Miembro Experimentado Del Clan Uchiha Y Un Gran Usuario Del Elemento Fuego. Conoce Jutsus Como Las Llamas Del FéNix O La Gran Bola De Fuego Jutsu.",
     "class": "Raro",
     "type": "Fuego, Aventura, Fantasía",
-    "price": 678,
+    "price": 1000,
     "code": "sEE8<9"
   },
   {
@@ -67,7 +67,7 @@
     "desp": "One Piece",
     "class": "Común",
     "type": "Manga, Anime, Aventura",
-    "price": 1453,
+    "price": 2000,
     "code": "0<KHO7"
   },
   {
@@ -77,7 +77,7 @@
     "desp": "Death Note",
     "class": "Poco Común",
     "type": "Psicológico, Misterio, Anime, Crime",
-    "price": 700,
+    "price": 1000,
     "code": "0#suv1"
   },
   {
@@ -87,7 +87,7 @@
     "desp": "Death Note",
     "class": "Épico",
     "type": "Misterio, Anime, Modelo, Cantante",
-    "price": 808,
+    "price": 900,
     "code": "3i<M5z"
   },
   {
@@ -97,7 +97,7 @@
     "desp": "Death Note",
     "class": "Común",
     "type": "Crime, Misterio, Anime, Policía",
-    "price": 108,
+    "price": 500,
     "code": "79UKU%"
    },
    {
@@ -107,7 +107,7 @@
     "desp": "Sword Art Online",
     "class": "Épico",
     "type": "Anime",
-    "price": 1047,
+    "price": 2000,
     "code": "B6YQ%8"
   },
   {
@@ -117,7 +117,7 @@
     "desp": "Fairy Tail",
     "class": "Épico",
     "type": "Anime",
-    "price": 1179,
+    "price": 2000,
     "code": "UP%30J"
    },
    {
@@ -127,7 +127,7 @@
     "desp": "Isagi Es Un Jugador Joven De Fútbol Con Grandes Habilidades Y Una Mentalidad Fuerte Y Competitiva. El Entra En El Programa De Entrenamiento “Blue Lock” Con La Intención De Convertirse En el Jugador De Fútbol Más Fuerte Del Mundo Isagi Es Un Personaje Inteligente Y Estratégico Con Su Habilidad de Meta Vision.",
     "class": "Legendario",
     "type": "Deporte, Estrategia, Acción",
-    "price": 1760,
+    "price": 2000,
     "code": "V9Ua0%"
   },
   {
@@ -137,7 +137,7 @@
     "desp": "Jujutsu Kaisen",
     "class": "Épico",
     "type": "Aventura, Acción, Demonios",
-    "price": 19580,
+    "price": 25000,
     "code": "7Xl5%A"
   },
   {
@@ -147,7 +147,7 @@
     "desp": "Brook Es Un Personaje De 'One Piece' Que Tiene Una Personalidad Muy Carismática Y Divertida. Es Un Personaje Muy Peculiar, Ya Que Es Una Calavera Hablante, Y Es Un Músico Muy Talentoso. Además, Tiene Un Humor Unico Y Alegre, A Pesar De Que En Ocasiones Es Un Poco Engreído Y También Muestra Gran Lealtad A Sus Compañeros Y Su Capitán Monkey D. Luffy.",
     "class": "Poco Común",
     "type": "Aventura, Acción, Piratas",
-    "price": 300,
+    "price": 800,
     "code": "8loJ5@"
   },
   {
@@ -157,7 +157,7 @@
     "desp": "Zoro Es Uno De Los Tripulantes De La Tripulación De Luffy, Y Es Uno  De Los Más Fuertes Y Esforzados. Su Personalidad Es Fuerte, Determinada Y Dura, Pero También Tiene Un Gran Corazón Y Una Gran Lealtad A Su Capitán.",
     "class": "Supremo",
     "type": "Aventura, Acción, Anime, Katana",
-    "price": 19256,
+    "price": 9000,
     "code": "s3l0p<"
   },
   {
@@ -167,7 +167,7 @@
     "desp": "Hazbin Hotel",
     "class": "Raro",
     "type": "Aventura, Acción, Demoníaco",
-    "price": 700,
+    "price": 1000,
     "code": "<84NMj"
   },
   {
@@ -177,7 +177,7 @@
     "desp": "SpyxFamily",
     "class": "Poco Común",
     "type": "Acción, Anime",
-    "price": 1432,
+    "price": 1700,
     "code": "_9u8<v"
   },
   {
@@ -187,7 +187,7 @@
     "desp": "SpyxFamily",
     "class": "Poco Común",
     "type": "Acción, Anime",
-    "price": 782,
+    "price": 1500,
     "code": "B@c2d"
   },
   {
@@ -197,7 +197,7 @@
     "desp": "SpyxFamily",
     "class": "Poco Común",
     "type": "Acción, Asesina, Waifu",
-    "price": 1355,
+    "price": 1750,
     "code": "<Z%X&m"
       },
         {
@@ -207,7 +207,7 @@
     "desp": "Dragon Ball",
     "class": "Épico",
     "type": "Saiyan, Guerrero, Acción",
-    "price": 3400,
+    "price": 8500,
     "code": "_6%O#P"
       },
         {
@@ -217,7 +217,7 @@
     "desp": "Dragon Ball",
     "class": "Épico",
     "type": "Hybrid  ",
-    "price": 1323,
+    "price": 5000,
     "code": "5&VQh<"
       },
         {
@@ -227,7 +227,7 @@
     "desp": "Mob Psycho 100",
     "class": "Poco Común",
     "type": "Anime",
-    "price": 4500,
+    "price": 5500,
     "code": "v2A@cX"
       },
         {
@@ -237,7 +237,7 @@
     "desp": "Mob Psycho",
     "class": "Raro",
     "type": "Anime, Psíquico",
-    "price": 5000,
+    "price": 10000,
     "code": "M5n4*#"
       },
         {
@@ -247,7 +247,7 @@
     "desp": "One Punch Man",
     "class": "Raro",
     "type": "Anime, Acción, Heroe",
-    "price": 1700,
+    "price": 5000,
     "code": "O7p6!^"
       },
         {
@@ -257,7 +257,7 @@
     "desp": "One Punch Man",
     "class": "Poco Común",
     "type": "Anime, Acción, Cyborg",
-    "price": 980,
+    "price": 4550,
     "code": "q9@Q8<"
       },
         {
@@ -267,7 +267,7 @@
     "desp": "Dragon Ball",
     "class": "Legendario",
     "type": "Dios, Anime",
-    "price": 6700,
+    "price": 10000,
     "code": "R0r3%"
       },
         {
@@ -277,7 +277,7 @@
     "desp": "Dragon Ball",
     "class": "Legendario",
     "type": "Angel, Dios, Maestro",
-    "price": 8955,
+    "price": 15000,
     "code": "s2#S1@"
       },
         {
@@ -287,7 +287,7 @@
     "desp": "Dragon Ball",
     "class": "Raro",
     "type": "Peleas, Rival, Anime",
-    "price": 4500,
+    "price": 8000,
     "code": "u6&U5<"
       },
         {
@@ -297,7 +297,7 @@
     "desp": "Chainsaw Man",
     "class": "Poco Común",
     "type": "Anime, Demonios, Carismático",
-    "price": 1200,
+    "price": 2000,
     "code": "v8^V9!"
       },
         {
@@ -307,7 +307,7 @@
     "desp": "Chainsaw Man",
     "class": "Raro",
     "type": "Anime, Waifu, Demonios",
-    "price": 1666,
+    "price": 3500,
     "code": "w0@W3#"
       },
         {
@@ -317,7 +317,7 @@
     "desp": "Chainsaw Man",
     "class": "Poco Común",
     "type": "Anime, Demonios",
-    "price": 700,
+    "price": 2000,
     "code": "x1*X2<"
       },
         {
@@ -327,7 +327,7 @@
     "desp": "Chainsaw Man",
     "class": "Poco Común",
     "type": "Anime, Demonios",
-    "price": 910,
+    "price": 2000,
     "code": "y3&Y4@"
       },
         {
@@ -337,7 +337,7 @@
     "desp": "Kaguya-sama: Love is War",
     "class": "Poco Común",
     "type": "Anime, Romance",
-    "price": 700,
+    "price": 2000,
     "code": "z5#Z6^"
       },
         {
@@ -347,7 +347,7 @@
     "desp": "Kaguya-sama: Love is War",
     "class": "Poco Común",
     "type": "Anime, Romance",
-    "price": 750,
+    "price": 2000,
     "code": "4dEf%#"
       },
         {
@@ -357,7 +357,7 @@
     "desp": "Kaguya-sama: Love is War",
     "class": "Poco Común",
     "type": "Anime, Romance",
-    "price": 670,
+    "price": 2000,
     "code": "Ghi@67"
       },
         {
@@ -367,7 +367,7 @@
     "desp": "Komi Can't Communicate",
     "class": "Poco Común",
     "type": "Anime",
-    "price": 780,
+    "price": 1500,
     "code": "jklM*8"
       },
         {
@@ -377,7 +377,7 @@
     "desp": "Assassination Classroom",
     "class": "Poco Común",
     "type": "Anime, Asesino",
-    "price": 700,
+    "price": 2000,
     "code": "90Nop*"
       },
         {
@@ -387,7 +387,7 @@
     "desp": "Assassination Classroom",
     "class": "Raro",
     "type": "Anime, Asesino, Carismático",
-    "price": 1223,
+    "price": 3000,
     "code": "tuV%12"
         },
           {
@@ -397,7 +397,7 @@
     "desp": "Minecraft",
     "class": "Raro",
     "type": "Videojuegos, Minero, Aventura",
-    "price": 1300,
+    "price": 1500,
     "code": "Wxy*34"
       },
         {
@@ -407,7 +407,7 @@
     "desp": "Minecraft",
     "class": "Poco Común",
     "type": "Videojuegos, Minero, Aventura",
-    "price": 967,
+    "price": 1300,
     "code": "56Z!^<"
       },
         {
@@ -417,7 +417,7 @@
     "desp": "Don't Toy With Me Miss Nagatoro",
     "class": "Poco Común",
     "type": "Romcom, Anime",
-    "price": 600,
+    "price": 1000,
     "code": "S%0t^8"
       },
         {
@@ -427,7 +427,7 @@
     "desp": "Don't Toy With Me Miss Nagatoro",
     "class": "Poco Común",
     "type": "Anime",
-    "price": 670,
+    "price": 1000,
     "code": "A2b#9*"
       },
         {
@@ -437,7 +437,7 @@
     "desp": "KonoSuba!",
     "class": "Poco Común",
     "type": "Anime",
-    "price": 700,
+    "price": 3000,
     "code": "Q4r!3*"
       },
         {
@@ -447,7 +447,7 @@
     "desp": "KonoSuba!",
     "class": "Poco Común",
     "type": "Anime",
-    "price": 600,
+    "price": 2500,
     "code": "I0j^8!"
       },
         {
