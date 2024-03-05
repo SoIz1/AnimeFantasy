@@ -457,7 +457,7 @@
     "desp": "KonoSuba!",
     "class": "Poco Común",
     "type": "Anime",
-    "price": 1000,
+    "price": 3000,
     "code": "M6n*2^"
       },
         {
@@ -467,7 +467,7 @@
     "desp": "KonoSuba!",
     "class": "Poco Común",
     "type": "Anime",
-    "price": 890,
+    "price": 2000,
     "code": "X!7y<4"
       },
         {
@@ -477,7 +477,7 @@
     "desp": "Shrek",
     "class": "Legendario",
     "type": "Shrek",
-    "price": 9000,
+    "price": 10000,
     "code": "3*6F!z"
       },
         {
@@ -487,7 +487,7 @@
     "desp": "Mundo Gay",
     "class": "Común",
     "type": "Pajin, Homo, Tragapenes profesional",
-    "price": 40,
+    "price": 50,
     "code": "A2#5!b"
       },
         {
@@ -497,7 +497,7 @@
     "desp": "Dragon Ball",
     "class": "Raro",
     "type": "Villano, Anime, Carismático",
-    "price": 5233,
+    "price": 6700,
     "code": "Ad3!*<"
       },
       {
@@ -507,7 +507,7 @@
     "desp": "Dragon Ball",
     "class": "Raro",
     "type": "Villano, Anime",
-    "price": 3200,
+    "price": 5000,
     "code": "wP#x3d"
       },
       {
@@ -517,7 +517,7 @@
     "desp": "Dragon Ball",
     "class": "Común",
     "type": "Clan de tres ojos, Aliado, Anime",
-    "price": 350,
+    "price": 500,
     "code": "eO^y4e"
       },
       {
@@ -527,7 +527,7 @@
     "desp": "Dragon Ball Z",
     "class": "Poco Común",
     "type": "Androide, Anime",
-    "price": 1000,
+    "price": 1500,
     "code": "7M@a6g"
       },
       {
@@ -567,7 +567,7 @@
     "desp": "Dragon Ball Z",
     "class": "Épico",
     "type": "Androide, Carismático, Villano",
-    "price": 5500,
+    "price": 8500,
     "code": "4J*d9j"
       },
       {
@@ -577,7 +577,7 @@
     "desp": "Dragon Ball",
     "class": "Poco Común",
     "type": "Genio, Magia, Anime",
-    "price": 700,
+    "price": 1000,
     "code": "3H@e0k"
       },
       {
@@ -587,7 +587,7 @@
     "desp": "Dragon Ball Z",
     "class": "Raro",
     "type": "Villano, Anime, Peleas",
-    "price": 2300,
+    "price": 2500,
     "code": "2G#f1l"
       },
       {
@@ -597,7 +597,7 @@
     "desp": "Dragon Ball Z",
     "class": "Poco Común",
     "type": "Namekiano, Dios, Aliado",
-    "price": 890,
+    "price": 1000,
     "code": "1F^g2m"
       },
       {
@@ -607,7 +607,7 @@
     "desp": "Dragon Ball Z",
     "class": "Común",
     "type": "Namekiano, Dios, Anime",
-    "price": 950,
+    "price": 1200,
     "code": "zE*h3n"
       },
       {
@@ -617,7 +617,7 @@
     "desp": "Solo es una piedra",
     "class": "Legendario",
     "type": "Una piedra común  y corriente",
-    "price": 80000,
+    "price": 100000,
     "code": "xD#i4o"
       },
       {
@@ -777,7 +777,7 @@
     "desp": "Dragon Ball Z",
     "class": "Poco Común",
     "type": "Peleador, Anime",
-    "price": 500,
+    "price": 1000,
     "code": "xH^x9d"
       },
       {
@@ -787,7 +787,7 @@
     "desp": "Dragon Ball",
     "class": "Poco Común",
     "type": "Maestro, Guerrero, Anime",
-    "price": 1200,
+    "price": 1500,
     "code": "gG*y0e"
       },
       {
@@ -797,7 +797,7 @@
     "desp": "Dragon Ball",
     "class": "Poco Común",
     "type": "Guerrero, Aliado, Anime",
-    "price": 800,
+    "price": 1200,
     "code": "fF@z1f"
       },
       {
@@ -807,7 +807,7 @@
     "desp": "Dragon Ball",
     "class": "Común",
     "type": "Waifu, Anime",
-    "price": 300,
+    "price": 800,
     "code": "B4*j1R"
       },
       {
@@ -817,7 +817,7 @@
     "desp": "Dragon Ball",
     "class": "Poco Común",
     "type": "Waifu, Anime",
-    "price": 600,
+    "price": 900,
     "code": "vH^g0Q"
       },
       {
@@ -827,7 +827,7 @@
     "desp": "Ultimate Spider-Man",
     "class": "Poco Común",
     "type": "Superheroe, Carismático",
-    "price": 1000,
+    "price": 2000,
     "code": "cI%f9P"
       },
       {
@@ -837,7 +837,7 @@
     "desp": "The Amazing Spider-Man",
     "class": "Poco Común",
     "type": "Superheroe, Carismático",
-    "price": 1200,
+    "price": 1700,
     "code": "xS#d4O"
       },
       {
@@ -857,7 +857,7 @@
     "desp": "Mob Psycho 100",
     "class": "Raro",
     "type": "Espiritu, Aliado, Anime",
-    "price": 800,
+    "price": 2500,
     "code": "F0*t5M"
       },
       {
@@ -867,7 +867,7 @@
     "desp": "Mob Psycho 100",
     "class": "Raro",
     "type": "Psíquico, Aliado, Anime",
-    "price": 1000,
+    "price": 3500,
     "code": "2Q^r1L"
       },
       {
@@ -877,7 +877,7 @@
     "desp": "KonoSuba!",
     "class": "Poco Común",
     "type": "Maga, Waifu, Anime",
-    "price": 600,
+    "price": 2000,
     "code": "nZ#e3K"
       },
       {
@@ -887,7 +887,7 @@
     "desp": "KonoSuba!",
     "class": "Poco Común",
     "type": "Anime, Waifu, Aliado",
-    "price": 800,
+    "price": 2000,
     "code": "V6@h7J"
       },
       {
@@ -897,7 +897,7 @@
     "desp": "Jujutsu Kaisen",
     "class": "Raro",
     "type": "Carismático, Anime, Poder",
-    "price": 4000,
+    "price": 5000,
     "code": "bY%i8G"
       },
       {
@@ -907,7 +907,7 @@
     "desp": "Jujutsu Kaisen",
     "class": "Raro",
     "type": "Anime, Estudiante",
-    "price": 3500,
+    "price": 4500,
     "code": "C7*a9F"
       },
       {
@@ -917,7 +917,7 @@
     "desp": "Jujutsu Kaisen",
     "class": "Raro",
     "type": "Waifu, Estudiante, Anime",
-    "price": 3200,
+    "price": 4000,
     "code": "M5^u4E"
       },
       {
@@ -927,7 +927,7 @@
     "desp": "Jujutsu Kaisen",
     "class": "Raro",
     "type": "Maldición, Demonios, Anime",
-    "price": 8000,
+    "price": 10000,
     "code": "Xp#0vN"
       },
       {
@@ -937,7 +937,7 @@
     "desp": "Chainsaw Man",
     "class": "Poco Común",
     "type": "Devil Hunter, Anime",
-    "price": 800,
+    "price": 2500,
     "code": "jW%o6L"
       },
       {
@@ -947,7 +947,7 @@
     "desp": "SpyxFamily",
     "class": "Poco Común",
     "type": "Informante, Anime",
-    "price": 600,
+    "price": 1500,
     "code": "K1@q2H"
       },
       {
@@ -957,7 +957,7 @@
     "desp": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo",
     "class": "Poco Común",
     "type": "Anime",
-    "price": 700,
+    "price": 1000,
     "code": "D8*yG3"
       },
       {
@@ -967,7 +967,7 @@
     "desp": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo",
     "class": "Poco Común",
     "type": "Anime",
-    "price": 700,
+    "price": 1000,
     "code": "4f^s7R"
       },
       {
@@ -977,7 +977,7 @@
     "desp": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo",
     "class": "Poco Común",
     "type": "Anime",
-    "price": 700,
+    "price": 1000,
     "code": "9B%cTd"
       },
       {
@@ -987,7 +987,7 @@
     "desp": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo",
     "class": "Poco Común",
     "type": "Anime",
-    "price": 700,
+    "price": 1000,
     "code": "zL#5*e"
       },
       {
@@ -997,7 +997,7 @@
     "desp": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo",
     "class": "Poco Común",
     "type": "Anime",
-    "price": 700,
+    "price": 1000,
     "code": "a2@mK6"
       },
       {
