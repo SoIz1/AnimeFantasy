@@ -1109,6 +1109,16 @@
     "type": "Guerrero, Aliado, Poder",
     "price": 12500,
     "code": "Si#3m4"
+    },
+    {
+    "index": 112,
+    "url": "",
+    "name": "Moro",
+    "desp": "Dragon Ball Super",
+    "class": "Épico",
+    "type": "Absorción, Villano, Poder",
+    "price": 15000,
+    "code": "5A#$ml"
     }
   ]
     }
