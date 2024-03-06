@@ -1099,6 +1099,16 @@
     "type": "Ágil, Fuerte, Cazador",
     "price": 9500,
     "code": "S4#3mI"
+    },
+    {
+    "index": 111,
+    "url": "",
+    "name": "Granolah",
+    "desp": "Dragon Ball Super",
+    "class": "Épico",
+    "type": "Guerrero, Aliado, Poder",
+    "price": 12500,
+    "code": "Si#3m4"
     }
   ]
     }
