@@ -1119,6 +1119,26 @@
     "type": "Absorción, Villano, Poder",
     "price": 15000,
     "code": "5A#$ml"
+    },
+    {
+    "index": 113,
+    "url": "https://telegra.ph/file/5e609d403686045b0fe47.jpg",
+    "name": "Totomaru Isshiki",
+    "desp": "Ron Kamonohashi: Deranged Detective",
+    "class": "Poco Común",
+    "type": "Oficial, Despistado, Inocente",
+    "price": 2500,
+    "code": "g4#B16"
+    },
+    {
+    "index": 114,
+    "url": "https://telegra.ph/file/bb6dde067aba3569b4ae9.jpg",
+    "name": "Ron Kamono Hashi",
+    "desp": "Ron Kamonohashi: Deranged Detective",
+    "class": "Épico",
+    "type": "Detective, Inteligente, Carismático",
+    "price": 18000,
+    "code": "tY&55#"
     }
   ]
     }
