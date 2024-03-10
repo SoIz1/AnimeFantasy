@@ -5,7 +5,7 @@
       "url": "https://telegra.ph/file/d5034740d71ac86dc6225.png",
       "name": "Son Goku",
       "desp": "Dragon Ball",
-      "price": 10400,
+      "price": 10500,
       "class": "Raro",
       "type": "Saiyan, Anime",
       "code": "95iYY%"
@@ -137,7 +137,7 @@
     "desp": "Jujutsu Kaisen",
     "class": "Épico",
     "type": "Aventura, Acción, Demonios",
-    "price": 25000,
+    "price": 28500,
     "code": "7Xl5%A"
   },
   {
@@ -172,7 +172,7 @@
   },
   {
     "index": 18,
-    "url": "https://telegra.ph/file/060799fc6d4e8be68fa64.png",
+    "url": "https://telegra.ph/file/3582922e1b3e005f02ce7.jpg",
     "name": "Loid Forger",
     "desp": "SpyxFamily",
     "class": "Poco Común",
@@ -215,8 +215,8 @@
     "url": "https://telegra.ph/file/e20c8e8e1341118fbdbf2.jpg",
     "name": "Son Gohan",
     "desp": "Dragon Ball",
-    "class": "Épico",
-    "type": "Hybrid  ",
+    "class": "Raro",
+    "type": "Hybrid",
     "price": 5000,
     "code": "5&VQh<"
       },
@@ -267,7 +267,7 @@
     "desp": "Dragon Ball",
     "class": "Legendario",
     "type": "Dios, Anime",
-    "price": 10000,
+    "price": 25000,
     "code": "R0r3%"
       },
         {
@@ -277,7 +277,7 @@
     "desp": "Dragon Ball",
     "class": "Legendario",
     "type": "Angel, Dios, Maestro",
-    "price": 15000,
+    "price": 30000,
     "code": "s2#S1@"
       },
         {
@@ -287,7 +287,7 @@
     "desp": "Dragon Ball",
     "class": "Raro",
     "type": "Peleas, Rival, Anime",
-    "price": 8000,
+    "price": 9000,
     "code": "u6&U5<"
       },
         {
@@ -637,7 +637,7 @@
     "desp": "Dragon Ball Z",
     "class": "Raro",
     "type": "Saiyan, Enemigo, Guerrero",
-    "price": 3400,
+    "price": 8000,
     "code": "vB#k6q"
       },
       {
@@ -647,7 +647,7 @@
     "desp": "Dragon Ball Super",
     "class": "Raro",
     "type": "Saiyan, Rival, Aliado",
-    "price": 5500,
+    "price": 10000,
     "code": "aU^l7r"
       },
       {
@@ -657,7 +657,7 @@
     "desp": "Dragon Ball Z",
     "class": "Raro",
     "type": "Guerrero Fusionado, Anime",
-    "price": 9000,
+    "price": 15000,
     "code": "9T*m8s"
       },
       {
@@ -667,7 +667,7 @@
     "desp": "Dragon Ball Super",
     "class": "Épico",
     "type": "Guerrero Fusionado, Anime",
-    "price": 15000,
+    "price": 20000,
     "code": "8S@n9t"
       },
       {
@@ -677,7 +677,7 @@
     "desp": "Dragon Ball Z",
     "class": "Raro",
     "type": "Guerrero Fusionado, Anime",
-    "price": 10000,
+    "price": 15000,
     "code": "7R#o0u"
       },
       {
@@ -687,7 +687,7 @@
     "desp": "Dragon Ball Super",
     "class": "Épico",
     "type": "Guerrero Fusionado, Anime",
-    "price": 15500,
+    "price": 22000,
     "code": "6Q^p1v"
       },
       {
@@ -727,7 +727,7 @@
     "desp": "Dragon Ball Z",
     "class": "Raro",
     "type": "Transformación, Guerrero, Anime",
-    "price": 8500,
+    "price": 10000,
     "code": "3N#s4y"
       },
       {
@@ -737,7 +737,7 @@
     "desp": "Dragon Ball Super",
     "class": "Raro",
     "type": "Dios, Guerrero, Transformación",
-    "price": 10000,
+    "price": 15000,
     "code": "2M^t5z"
       },
       {
@@ -747,7 +747,7 @@
     "desp": "Dragon Ball Super",
     "class": "Raro",
     "type": "Transformación, Guerrero, Anime",
-    "price": 15000,
+    "price": 22000,
     "code": "1L*u6a"
       },
       {
@@ -757,7 +757,7 @@
     "desp": "Dragon Ball Super",
     "class": "Raro",
     "type": "Guerrero, Poder, Anime",
-    "price": 18000,
+    "price": 25000,
     "code": "zK@v7b"
       },
       {
@@ -767,7 +767,7 @@
     "desp": "Dragon Ball Super",
     "class": "Épico",
     "type": "Guerrero, Poder, Anime",
-    "price": 20000,
+    "price": 30000,
     "code": "yJ#w8c"
       },
       {
@@ -1107,7 +1107,7 @@
     "desp": "Dragon Ball Super",
     "class": "Épico",
     "type": "Guerrero, Aliado, Poder",
-    "price": 12500,
+    "price": 18500,
     "code": "Si#3m4"
     },
     {
@@ -1117,7 +1117,7 @@
     "desp": "Dragon Ball Super",
     "class": "Épico",
     "type": "Absorción, Villano, Poder",
-    "price": 15000,
+    "price": 12500,
     "code": "5A#$ml"
     },
     {
@@ -1139,6 +1139,26 @@
     "type": "Detective, Inteligente, Carismático",
     "price": 18000,
     "code": "tY&55#"
+      },
+      {
+    "index": 115,
+    "url": "https://telegra.ph/file/2eec6af74dea3f4609fdc.jpg",
+    "name": "Gohan Beast",
+    "desp": "Dragon Ball Super",
+    "class": "Épico",
+    "type": "Transformación, Anime, Hybrid Saiyan",
+    "price": 25000,
+    "code": "N1$8yh"
+      },
+      {
+    "index": 116,
+    "url": "https://telegra.ph/file/e226cde2c029bc9e2dc12.jpg",
+    "name": "Super Vegeta",
+    "desp": "Dragon Ball Z",
+    "class": "Raro",
+    "type": "Transformación, Guerrero, Anime",
+    "price": 10000,
+    "code": "3a*C7p"
     }
   ]
     }
