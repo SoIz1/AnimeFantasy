@@ -109,7 +109,7 @@
       "code": "FFH_SK1"
     },
     {
-      "index": 2,
+      "index": 12,
       "url": "https://telegra.ph/file/ed723e8752ab63b1b79e1.jpg",
       "name": "Girasol",
       "desp": "ALIADO - PASIVA - SOLES",
@@ -119,7 +119,7 @@
       "code": "PVZ_GSR"
     },
     {
-      "index": 3,
+      "index": 13,
       "url": "https://telegra.ph/file/965cbb119f97b6b045e35.jpg",
       "name": "PetaCereza",
       "desp": "ALIADO - ACTIVA - EXPLOSIVA",
@@ -129,7 +129,7 @@
       "code": "PVZ_PCZ"
     },
     {
-    "index": 4,
+    "index": 14,
     "url": "https://telegra.ph/file/9e35ff9eea6914bda49a2.jpg",
     "name": "DR.ZOMBIE",
     "desp": "ENEMIGO - MUY FUERTE - MULTI-ATAQUES",
@@ -139,7 +139,7 @@
     "code": "PVZ_DRZ^"
    },
    {
-    "index": 5,
+    "index": 15,
     "url": "https://telegra.ph/file/46e1b63af4c1710c550d9.jpg",
     "name": "Nuez",
     "desp": "ALIADO - ACTIVA - DEFENSA",
@@ -149,7 +149,7 @@
     "code": "PVZ_NUZ"
   },
   {
-    "index": 6,
+    "index": 16,
     "url": "https://telegra.ph/file/4124dcad6a7902d613eba.jpg",
     "name": "Cascanuezces",
     "desp": "ALIADO - ACTIVA - DEFENSA - NO OBTENIBLE",
@@ -159,7 +159,7 @@
     "code": "PVZ_NZG"
   },
   {
-    "index": 7,
+    "index": 17,
     "url": "https://telegra.ph/file/b7087b89b21f88111894d.jpg",
     "name": "Nuez - Casca-Rabias",
     "desp": "ALIADO - ACTIVA - DEFENSA GIGANTE",
