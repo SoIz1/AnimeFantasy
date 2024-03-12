@@ -24,7 +24,7 @@
       "index": 3,
       "url": "https://telegra.ph/file/965cbb119f97b6b045e35.jpg",
       "name": "PetaCereza",
-      "desp": "ALIADO - ACTIVA - EXPLOSIVA",
+      "desp": "ALIADO - PASIVA - EXPLOSIVA",
       "price": 2000,
       "class": "COMUN",
       "type": "EXPLOTA DE FORMA AUTOMATICA",
@@ -34,7 +34,7 @@
     "index": 4,
     "url": "https://telegra.ph/file/9e35ff9eea6914bda49a2.jpg",
     "name": "DR.ZOMBIE",
-    "desp": "ENEMIGO - ACTIVA - MULTI-ATAQUES",
+    "desp": "ENEMIGO - MUY FUERTE - MULTI-ATAQUES",
     "class": "ULTRA",
     "type": "ENEMIGO FINAL - DR-ZOMBIE",
     "price": 15000,
@@ -90,7 +90,7 @@
     "price": 1300,
     "code": "PVZ_JLP"
 
-    "index": 9,
+    "index": 10,
     "url": "https://telegra.ph/file/3c1481ccb24cb80448e37.png",
     "name": "ZOMBIE",
     "desp": "ENEMIGO - DEVIL",
@@ -98,6 +98,77 @@
     "type": "ENEMIGO DESDE EL PRINCIPIO AL FINAL 🗿",
     "price": 1200,
     "code": "PVZ_ZMB"
+
+    "index": 11,
+      "url": "https://telegra.ph/file/8df0d51f22f66bcce7a04.jpg",
+      "name": "Hayato",
+      "desp": "PASIVA - RENACER",
+      "price": 1640,
+      "class": "COMUN",
+      "type": "CUANDO EL HP MÁXIMO DISMINUYE EN UN 10%, AUMENTA UN 5% LA PENETRACIÓN DE ARMADURA.",
+      "code": "FFH_SK1"
+    },
+    {
+      "index": 2,
+      "url": "https://telegra.ph/file/ed723e8752ab63b1b79e1.jpg",
+      "name": "Girasol",
+      "desp": "ALIADO - PASIVA - SOLES",
+      "price": 1700,
+      "class": "COMUN",
+      "type": "GENERA SOLES PARA EL USUARIO EN TODA LA PARTIDA",
+      "code": "PVZ_GSR"
+    },
+    {
+      "index": 3,
+      "url": "https://telegra.ph/file/965cbb119f97b6b045e35.jpg",
+      "name": "PetaCereza",
+      "desp": "ALIADO - ACTIVA - EXPLOSIVA",
+      "price": 2000,
+      "class": "COMUN",
+      "type": "EXPLOTA DE FORMA AUTOMATICA",
+      "code": "PVZ_PCZ"
+    },
+    {
+    "index": 4,
+    "url": "https://telegra.ph/file/9e35ff9eea6914bda49a2.jpg",
+    "name": "DR.ZOMBIE",
+    "desp": "ENEMIGO - MUY FUERTE - MULTI-ATAQUES",
+    "class": "ULTRA",
+    "type": "ENEMIGO FINAL - DR-ZOMBIE",
+    "price": 15000,
+    "code": "PVZ_DRZ^"
+   },
+     {
+    "index": 5,
+    "url": "https://telegra.ph/file/46e1b63af4c1710c550d9.jpg",
+    "name": "Nuez",
+    "desp": "ALIADO - ACTIVA - DEFENSA",
+    "class": "COMUN",
+    "type": "LA NUEZ ES UNA DEFENSA UNICA QUE NOS DAN AL PRINCIPIO DEL JUEGO",
+    "price": 2750,
+    "code": "PVZ_NUZ"
+  },
+  {
+    "index": 6,
+    "url": "https://telegra.ph/file/4124dcad6a7902d613eba.jpg",
+    "name": "Cascanuezces",
+    "desp": "ALIADO - ACTIVA - DEFENSA - NO OBTENIBLE",
+    "class": "EPICO",
+    "type": "CASCANUEZCES ES LA NUEZ EL CUAL ES UNA MEJOR DEFENSA EXPLOSIVA PARA EL USUARIO",
+    "price": 1000,
+    "code": "PVZ_NZG"
+  },
+  {
+    "index": 7,
+    "url": "https://telegra.ph/file/b7087b89b21f88111894d.jpg",
+    "name": "Nuez - Casca-Rabias",
+    "desp": "ALIADO - ACTIVA - DEFENSA GIGANTE",
+    "class": "EPICO",
+    "type": "LA NUEZ MAS FUERTE PARA LAS BATALLAS",
+    "price": 2560,
+    "code": "PVZ_NCR"
+  },
+  { 
     }
   ]
     }
