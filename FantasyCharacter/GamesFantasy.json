@@ -89,7 +89,8 @@
     "type": "JALAPEÑO GRAN DEFENSOR",
     "price": 1300,
     "code": "PVZ_JLP"
-
+  },
+    {
     "index": 10,
     "url": "https://telegra.ph/file/3c1481ccb24cb80448e37.png",
     "name": "ZOMBIE",
@@ -98,8 +99,6 @@
     "type": "ENEMIGO DESDE EL PRINCIPIO AL FINAL",
     "price": 1200,
     "code": "PVZ_ZMB"
-    },
-  {
   }
   ]
     }
