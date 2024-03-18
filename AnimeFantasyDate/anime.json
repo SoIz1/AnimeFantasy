@@ -77,7 +77,7 @@
     "desp": "Death Note",
     "class": "Poco Común",
     "type": "Psicológico, Misterio, Anime, Crime",
-    "price": 1000,
+    "price": 5000,
     "code": "0#suv1"
   },
   {
@@ -517,7 +517,7 @@
     "desp": "Dragon Ball",
     "class": "Común",
     "type": "Clan de tres ojos, Aliado, Anime",
-    "price": 800,
+    "price": 1000,
     "code": "eO^y4e"
       },
       {
@@ -527,7 +527,7 @@
     "desp": "Dragon Ball Z",
     "class": "Poco Común",
     "type": "Androide, Anime",
-    "price": 1500,
+    "price": 2500,
     "code": "7M@a6g"
       },
       {
@@ -537,7 +537,7 @@
     "desp": "Dragon Ball Z",
     "class": "Raro",
     "type": "Androide, Anime",
-    "price": 2500,
+    "price": 8500,
     "code": "8N*z5f"
       },
       {
@@ -547,7 +547,7 @@
     "desp": "Dragon Ball Z",
     "class": "Poco Común",
     "type": "Androide, Waifu, Anime",
-    "price": 2000,
+    "price": 500,
     "code": "6L#b7h"
       },
       {
@@ -1085,7 +1085,7 @@
     "url": "https://telegra.ph/file/580737e459e06244640d3.jpg",
     "name": "Kanao Tsuyuri",
     "desp": "Kimetsu no Yaiba",
-    "class": "Poco común",
+    "class": "Poco Común",
     "type": "Seria, Veloz, Sorpresiva",
     "price": 7000,
     "code": "K4&4oG"
@@ -1219,6 +1219,146 @@
     "type": "Impacible, Resistente, Cazador",
     "price": 7000,
     "code": "G1%9oW"
+  },
+  {
+  "index": 123,
+  "url": "https://telegra.ph/file/215cbf45c62bff55bbd4d.jpg",
+  "name": "L",
+  "desp": "Death Note",
+  "class": "Poco Común",
+  "type": "Detective, Inteligente, Anime",
+  "price": 5000,
+  "code": "Y1s6*j"
+  },
+{
+  "index": 124,
+  "url": "https://telegra.ph/file/40948866890170035dcd4.jpg",
+  "name": "Ryuk",
+  "desp": "Death Note",
+  "class": "Poco Común",
+  "type": "Shinigami, Dios, Espiritu",
+  "price": 6500,
+  "code": "k9W2!R"
+    },
+  {
+  "index": 125,
+  "url": "https://telegra.ph/file/1a5739353a684b67bb659.jpg",
+  "name": "Tatsumaki",
+  "desp": "One Punch Man",
+  "class": "Raro",
+  "type": "Psíquico, Waifu, Anime",
+  "price": 5000,
+  "code": "x8Z5$G"
+    },
+  {
+  "index": 126,
+  "url": "https://telegra.ph/file/e7790a87844780a9ba9c6.jpg",
+  "name": "Garou",
+  "desp": "One Punch Man",
+  "class": "Raro",
+  "type": "Peleador, Anime",
+  "price": 5000,
+  "code": "A2c9#L"
+    },
+  {
+  "index": 127,
+  "url": "https://telegra.ph/file/13df0c1932e60d0615b24.jpg",
+  "name": "Yuta Okkotsu",
+  "desp": "Jujutsu Kaisen",
+  "class": "Raro",
+  "type": "Anime, Estudiante, Misterioso",
+  "price": 5000,
+  "code": "R6o3*Q"
+    },
+  {
+  "index": 128,
+  "url": "https://telegra.ph/file/087713c4d453eb223ad9f.jpg",
+  "name": "Aoi Todo",
+  "desp": "Jujutsu Kaisen",
+  "class": "Raro",
+  "type": "Anime, Carismatico, Estudiante",
+  "price": 5500,
+  "code": "d7X2!F"
+    },
+  {
+  "index": 129,
+  "url": "https://telegra.ph/file/40495064ef201148000c7.jpg",
+  "name": "Suguru Geto",
+  "desp": "Jujutsu Kaisen",
+  "class": "Raro",
+  "type": "Anime",
+  "price": 8000,
+  "code": "H9e4%T"
+    },
+  {
+  "index": 130,
+  "url": "https://telegra.ph/file/b610062abfa7aa1d3ac2b.jpg",
+  "name": "Superman",
+  "desp": "Superman, nacido como Kal-El en Krypton, es enviado a la Tierra donde desarrolla poderes sobrehumanos. Adoptado por los Kent, se convierte en el héroe conocido como Superman, luchando contra el crimen y protegiendo a la humanidad mientras oculta su identidad como Clark Kent.",
+  "class": "Raro",
+  "type": "Superheroe, Carismático, Alien",
+  "price": 7500,
+  "code": "b5I1@S"
+    },
+  {
+  "index": 131,
+  "url": "https://telegra.ph/file/7b8e90620cfb14816db77.jpg",
+  "name": "Majin Vegeta",
+  "desp": "Dragon Ball Z",
+  "class": "Raro",
+  "type": "Poder, Anime, Guerrero",
+  "price": 10000,
+  "code": "F3q8$V"
+    },
+  {
+  "index": 132,
+  "url": "https://telegra.ph/file/284032b8e6f4a0c01269a.jpg",
+  "name": "Golden Freezer",
+  "desp": "Dragon Ball Super",
+  "class": "Raro",
+  "type": "Transformación, Anime, Carismático",
+  "price": 12000,
+  "code": "M1z6#K"
+    },
+  {
+  "index": 133,
+  "url": "https://telegra.ph/file/87ebe95b3385217cb8aed.jpg",
+  "name": "Black Freezer",
+  "desp": "Dragon Ball Super",
+  "class": "Épico",
+  "type": "Transformación, Anime, Carismático",
+  "price": 15000,
+  "code": "L5t2@N"
+    },
+  {
+  "index": 134,
+  "url": "https://telegra.ph/file/972aa04d2c176771e3441.png",
+  "name": "Hitori Gotoh (Bocchi)",
+  "desp": "Bocchi the Rock!",
+  "class": "Poco Común",
+  "type": "Músico, Anime, Introvertido",
+  "price": 3500,
+  "code": "S9r4!W"
+    },
+  {
+  "index": 135,
+  "url": "https://telegra.ph/file/4e483207c7190ab992450.png",
+  "name": "Orange Piccolo",
+  "desp": "Dragon Ball Super",
+  "class": "Raro",
+  "type": "Transformación, Anime, Guerrero",
+  "price": 10000,
+  "code": "G7u2*O"
+    },
+  {
+  "index": 136,
+  "url": "https://telegra.ph/file/ed80dc97e666698bb0d1e.png",
+  "name": "Escanor",
+  "desp": "Nanatsu No Taizai",
+  "class": "Poco Común",
+  "type": "Anime",
+  "price": 3500,
+  "code": "T8p3^U"
     }
   ]
     }
