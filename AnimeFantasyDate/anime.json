@@ -1359,6 +1359,436 @@
   "type": "Anime",
   "price": 10000,
   "code": "T8p3^U"
-    }
-  ]
-    }
+    },
+  {
+    "index": 137,
+    "url": "",
+    "name": "Senku Ishigami",
+    "desp": "El protagonista y un científico genio que está decidido a revivir a la humanidad y restaurar la civilización con la ciencia.",
+    "class": "Épico",
+    "type": "Anime",
+    "price": 1000,
+    "code": "A1B2C3"
+  },
+  {
+    "index": 138,
+    "url": "",
+    "name": "Taiju Oki",
+    "desp": "El mejor amigo de Senku y una persona leal y de voluntad fuerte que le ayuda con tareas físicas.",
+    "class": "Raro",
+    "type": "Anime",
+    "price": 800,
+    "code": "D4E5F6"
+  },
+  {
+    "index": 139,
+    "url": "",
+    "name": "Yuzuriha Ogawa",
+    "desp": "El interés amoroso de Taiju y una artesana hábil que puede hacer ropa y cerámica.",
+    "class": "Poco común",
+    "type": "Anime",
+    "price": 600,
+    "code": "G7H8I9"
+  },
+  {
+    "index": 140,
+    "url": "",
+    "name": "Tsukasa Shishio",
+    "desp": "El principal antagonista y un poderoso artista marcial que quiere crear un nuevo orden mundial sin ciencia o adultos.",
+    "class": "Épico",
+    "type": "Anime",
+    "price": 1000,
+    "code": "J0K1L2"
+  },
+  {
+    "index": 142,
+    "url": "",
+    "name": "Gen Asagiri",
+    "desp": "Un ex mentalista y espía que se une al Reino de la Ciencia de Senku después de quedar impresionado por sus inventos.",
+    "class": "Raro",
+    "type": "Anime",
+    "price": 800,
+    "code": "M3N4O5"
+  },
+  {
+    "index": 143,
+    "url": "",
+    "name": "Chrome",
+    "desp": "Un \"hechicero\" autodidacta y aprendiz de Senku que tiene una pasión por la ciencia y la exploración.",
+    "class": "Común",
+    "type": "Anime",
+    "price": 500,
+    "code": "P6Q7R8"
+  },
+  {
+    "index": 144,
+    "url": "",
+    "name": "Kohaku",
+    "desp": "Una guerrera y la hija menor del jefe de la aldea Ishigami. Es fuerte, valiente y leal a Senku.",
+    "class": "Épico",
+    "type": "Anime",
+    "price": 1000,
+    "code": "S9T0U1"
+  },
+  {
+    "index": 145,
+    "url": "",
+    "name": "Suika",
+    "desp": "Una niña que lleva un casco de sandía y tiene mala vista. Es curiosa y ayuda a Senku y sus amigos.",
+    "class": "Poco común",
+    "type": "Anime",
+    "price": 600,
+    "code": "V2W3X4"
+  },
+  {
+    "index": 146,
+    "url": "",
+    "name": "Ginro",
+    "desp": "Un guardia de la aldea Ishigami que es conocido por su cobardía y su amor por el oro.",
+    "class": "Común",
+    "type": "Anime",
+    "price": 500,
+    "code": "Y5Z6X7"
+  },
+  {
+    "index": 147,
+    "url": "",
+    "name": "Kinro",
+    "desp": "El hermano mayor de Ginro y un guardia de la aldea Ishigami que valora la justicia y las reglas.",
+    "class": "Poco común",
+    "type": "Anime",
+    "price": 600,
+    "code": "W8V9U0"
+  },
+  {
+    "index": 148,
+    "url": "",
+    "name": "Kaseki",
+    "desp": "Un anciano de la aldea Ishigami que es un artesano experto y ayuda a Senku a construir varios inventos.",
+    "class": "Raro",
+    "type": "Anime",
+    "price": 800,
+    "code": "T1S2R3"
+  },
+  {
+    "index": 149,
+    "url": "",
+    "name": "Ruri",
+    "desp": "La hermana mayor de Kohaku y la sacerdotisa de la aldea Ishigami que sufre de una enfermedad misteriosa.",
+    "class": "Épico",
+    "type": "Anime",
+    "price": 1000,
+    "code": "Q4P5O6"
+  },
+  {
+    "index": 150,
+    "url": "",
+    "name": "Hyoga",
+    "desp": "Un guerrero de élite del Imperio de Tsukasa que se convierte en un antagonista principal en la serie.",
+    "class": "Épico",
+    "type": "Anime",
+    "price": 1000,
+    "code": "N7M8L9"
+  },
+  {
+    "index": 151,
+    "url": "",
+    "name": "Homura Momiji",
+    "desp": "Una gimnasta ágil y leal a Hyoga que se especializa en espionaje y sabotaje.",
+    "class": "Raro",
+    "type": "Anime",
+    "price": 800,
+    "code": "K0J1I2"
+  },
+  {
+    "index": 152,
+    "url": "",
+    "name": "Nikki Hanada",
+    "desp": "Una fanática de la música pop que se une al Reino de la Ciencia después de que Senku reproduce una canción de su ídolo.",
+    "class": "Poco común",
+    "type": "Anime",
+    "price": 600,
+    "code": "H3G4F5"
+  },
+  {
+    "index": 153,
+    "url": "",
+    "name": "Yo Uei",
+    "desp": "Un ex policía que se une al Imperio de Tsukasa y luego al Reino de la Ciencia.",
+    "class": "Común",
+    "type": "Anime",
+    "price": 500,
+    "code": "E6D7C8"
+  },
+  {
+    "index": 154,
+    "url": "",
+    "name": "Ukyo Saionji",
+    "desp": "Un ex sonarista de la Fuerza de Autodefensa Marítima de Japón que se une al Reino de la Ciencia después de la guerra contra el Imperio de Tsukasa.",
+    "class": "Raro",
+    "type": "Anime",
+    "price": 800,
+    "code": "B9C8D7"
+  },
+  {
+    "index": 155,
+    "url": "",
+    "name": "Ryusui Nanami",
+    "desp": "Un aventurero y capitán de barco que es revivido por Senku para ayudar a navegar al Reino de la Ciencia a través del océano.",
+    "class": "Épico",
+    "type": "Anime",
+    "price": 1000,
+    "code": "E6F5G4"
+  },
+  {
+    "index": 156,
+    "url": "",
+    "name": "Francois",
+    "desp": "El mayordomo de la familia Nanami que es leal a Ryusui y se une al Reino de la Ciencia.",
+    "class": "Poco común",
+    "type": "Anime",
+    "price": 600,
+    "code": "H3I2J1"
+  },
+  {
+    "index": 157,
+    "url": "",
+    "name": "Moz",
+    "desp": "Un guerrero de la Isla del Tesoro que se une al Reino de la Ciencia después de ser derrotado por ellos.",
+    "class": "Común",
+    "type": "Anime",
+    "price": 500,
+    "code": "K0L9M8"
+  },
+  {
+    "index": 158,
+    "url": "",
+    "name": "Magma",
+    "desp": "Un guerrero de la aldea Ishigami que inicialmente se opone a Senku, pero luego se convierte en un aliado valioso.",
+    "class": "Común",
+    "type": "Anime",
+    "price": 500,
+    "code": "N1O2P3"
+  },
+  {
+    "index": 159,
+    "url": "",
+    "name": "Jasper",
+    "desp": "Un anciano de la aldea Ishigami que es amigo de Kaseki y ayuda en varias construcciones.",
+    "class": "Poco común",
+    "type": "Anime",
+    "price": 600,
+    "code": "Q4R5S6"
+  },
+  {
+    "index": 160,
+    "url": "",
+    "name": "Soyuz",
+    "desp": "Un joven de la Isla del Tesoro que se une al Reino de la Ciencia y resulta ser el heredero legítimo de su aldea.",
+    "class": "Raro",
+    "type": "Anime",
+    "price": 800,
+    "code": "T7U8V9"
+  },
+  {
+    "index": 161,
+    "url": "",
+    "name": "Kirisame",
+    "desp": "Una guerrera de la Isla del Tesoro que inicialmente se opone al Reino de la Ciencia, pero luego se convierte en una aliada.",
+    "class": "Épico",
+    "type": "Anime",
+    "price": 1000,
+    "code": "W0X1Y2"
+  },
+  {
+    "index": 162,
+    "url": "",
+    "name": "Ibara",
+    "desp": "El principal antagonista de la Isla del Tesoro que busca controlar el arma de petrificación.",
+    "class": "Épico",
+    "type": "Anime",
+    "price": 1000,
+    "code": "Z3A4B5"
+  },
+  {
+    "index": 163,
+    "url": "",
+    "name": "Amaryllis",
+    "desp": "Una joven de la Isla del Tesoro que ayuda al Reino de la Ciencia a derrotar a Ibara.",
+    "class": "Raro",
+    "type": "Anime",
+    "price": 800,
+    "code": "C6D7E8"
+  },
+  {
+    "index": 164,
+    "url": "",
+    "name": "Stanley Snyder",
+    "desp": "Un soldado estadounidense y el principal antagonista de la saga del Nuevo Mundo de Piedra.",
+    "class": "Épico",
+    "type": "Anime",
+    "price": 1000,
+    "code": "F9G0H1"
+  },
+  {
+    "index": 165,
+    "url": "",
+    "name": "Luna Wright",
+    "desp": "Una médica estadounidense que se une al Reino de la Ciencia después de enamorarse de Senku.",
+    "class": "Raro",
+    "type": "Anime",
+    "price": 800,
+    "code": "I2J3K4"
+  },
+  {
+    "index": 166,
+    "url": "",
+    "name": "Carlos Barrios",
+    "desp": "Un piloto estadounidense que se une al Reino de la Ciencia y ayuda a pilotar el barco de Ryusui.",
+    "class": "Poco común",
+    "type": "Anime",
+    "price": 600,
+    "code": "L5M6N7"
+  },
+  {
+    "index": 167,
+    "url": "",
+    "name": "Max Adams",
+    "desp": "Un soldado estadounidense que se une al Reino de la Ciencia y se convierte en un aliado valioso.",
+    "class": "Común",
+    "type": "Anime",
+    "price": 500,
+    "code": "O8P9Q0"
+  },
+    {
+    "index": 168,
+    "url": "",
+    "name": "Byakuya Ishigami",
+    "desp": "El padre adoptivo de Senku y uno de los seis astronautas que estaban en el espacio durante el evento de petrificación.",
+    "class": "Épico",
+    "type": "Anime",
+    "price": 1000,
+    "code": "R1S2T3"
+  },
+  {
+    "index": 169,
+    "url": "",
+    "name": "Lillian Weinberg",
+    "desp": "Una cantante pop estadounidense y uno de los seis astronautas que estaban en el espacio durante el evento de petrificación.",
+    "class": "Raro",
+    "type": "Anime",
+    "price": 800,
+    "code": "U4V5W6"
+  },
+  {
+    "index": 170,
+    "url": "",
+    "name": "Connie Lee",
+    "desp": "Una astronauta y la ingeniera de la Estación Espacial Internacional durante el evento de petrificación.",
+    "class": "Poco común",
+    "type": "Anime",
+    "price": 600,
+    "code": "X7Y8Z9"
+  },
+  {
+    "index": 171,
+    "url": "",
+    "name": "Shamil Volkov",
+    "desp": "Un astronauta ruso y uno de los seis astronautas que estaban en el espacio durante el evento de petrificación.",
+    "class": "Común",
+    "type": "Anime",
+    "price": 500,
+    "code": "A0B1C2"
+  },
+  {
+    "index": 172,
+    "url": "",
+    "name": "Darya Nikitina",
+    "desp": "Una astronauta rusa y la esposa de Shamil Volkov. Ella estaba en el espacio durante el evento de petrificación.",
+    "class": "Poco común",
+    "type": "Anime",
+    "price": 600,
+    "code": "D3E4F5"
+  },
+  {
+    "index": 173,
+    "url": "",
+    "name": "Yakov Nikitin",
+    "desp": "Un astronauta ruso y uno de los seis astronautas que estaban en el espacio durante el evento de petrificación.",
+    "class": "Raro",
+    "type": "Anime",
+    "price": 800,
+    "code": "G6H7I8"
+  },
+  {
+    "index": 174,
+    "url": "",
+    "name": "Rei",
+    "desp": "Una inteligencia artificial creada por Byakuya Ishigami que se quedó en el espacio después del evento de petrificación.",
+    "class": "Épico",
+    "type": "Anime",
+    "price": 1000,
+    "code": "J9K0L1"
+  },
+  {
+    "index": 175,
+    "url": "",
+    "name": "Maya Biggs",
+    "desp": "Una soldado estadounidense que trabaja para Stanley Snyder en la saga del Nuevo Mundo de Piedra.",
+    "class": "Común",
+    "type": "Anime",
+    "price": 500,
+    "code": "M2N3O4"
+  },
+  {
+    "index": 176,
+    "url": "",
+    "name": "Brody Dudley",
+    "desp": "Un soldado estadounidense que trabaja para Stanley Snyder en la saga del Nuevo Mundo de Piedra.",
+    "class": "Poco común",
+    "type": "Anime",
+    "price": 600,
+    "code": "P5Q6R7"
+  },
+  {
+    "index": 178,
+    "url": "",
+    "name": "Mirai Shishio",
+    "desp": "La hermana menor de Tsukasa que fue petrificada durante una cirugía y es revivida por Senku.",
+    "class": "Poco común",
+    "type": "Anime",
+    "price": 600,
+    "code": "S2T3U4"
+  },
+  {
+    "index": 179,
+    "url": "",
+    "name": "Matsukaze",
+    "desp": "Un guerrero de la Isla del Tesoro que fue petrificado durante siglos antes de ser revivido por Senku.",
+    "class": "Raro",
+    "type": "Anime",
+    "price": 800,
+    "code": "V5W6X7"
+  },
+  {
+    "index": 180,
+    "url": "",
+    "name": "Oarashi",
+    "desp": "Un guerrero de la Isla del Tesoro que se une a Ibara en su intento de tomar el control de la isla.",
+    "class": "Común",
+    "type": "Anime",
+    "price": 500,
+    "code": "Y8Z9A0"
+  },
+  {
+    "index": 181,
+    "url": "",
+    "name": "Why-man",
+    "desp": "Una entidad misteriosa que transmite mensajes desde la luna y es el principal antagonista de la saga de la Luna.",
+    "class": "Épico",
+    "type": "Anime",
+    "price": 1000,
+    "code": "B1C2D3"
+  }
+]
+  }
